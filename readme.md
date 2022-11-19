@@ -6,3 +6,5 @@ git的練習
 git add a.txt
 git commit -m "commit message"
 ```
+
+test
